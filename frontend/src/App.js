@@ -10,6 +10,7 @@ import Create from './pages/create.js' ;
 function App() {
   return (
    
+    // This is react
       <div>
         <nav className="navbar navbar-expand navbar-dark bg-dark">
           <div className="navbar-nav mr-auto">
